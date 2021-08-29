@@ -1,0 +1,1 @@
+You should store your training dataset and testing dataset under this folder.
